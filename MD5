@@ -1,0 +1,14 @@
+e09177b22d901c1db5e6461f4e923f8d *DESCRIPTION
+22a6abc637aef37e703e2a285ec137bb *NAMESPACE
+ea7a6e6b1c59edd511eefe4d468bd58f *R/Asords.R
+fee3f93a9d195fd549e2df0b41263db4 *R/CCD_coded.R
+b5532ea0da4f0e10362a1a2d760776e5 *R/CCD_original.R
+f6c8ecf2025fff34f11c3543fe74863e *R/Pred.var.R
+f89f2ae368f147dcc772fc1872f416e1 *R/SORD_coded.R
+c32b2956c1bc5ef8b8feb05dc35cc3a7 *R/SORD_original.R
+dad1fb15294eb8ded58f142b9da69d0e *man/Asords.Rd
+6506181c41d969873f3a59f208672428 *man/CCD_coded.Rd
+85ac9eb492946b52f116dbee63e6487c *man/CCD_original.Rd
+b7a3a81884567d988d665cefb05dcea3 *man/Pred.var.Rd
+76be229a200f2bb965c7150eff4f87db *man/SORD_coded.Rd
+74e90e04ff7237743680cc0b4dd528c1 *man/SORD_original.Rd
